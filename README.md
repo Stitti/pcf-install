@@ -25,9 +25,9 @@ First list all of your profiles with the following command to get the index of t
 pac auth list
 ```
 Then run this command to select the profile:
-´´´
+```
 pac auth select --index < index >
-´´´
+```
 
 ## Run the script
 Run `pcf-install` in the diretory where your `.pcfproj` file is located.
